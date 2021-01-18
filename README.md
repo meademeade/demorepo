@@ -1,5 +1,5 @@
-Markdown tet has shortcuts 
-#DEMO main header
 
-we write about project here
+# DEMO main header
+
+we write project description here
 
